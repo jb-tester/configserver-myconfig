@@ -1,0 +1,6 @@
+debug: true
+server:
+  port: 8082
+my:
+  props:
+     prop1: foo
