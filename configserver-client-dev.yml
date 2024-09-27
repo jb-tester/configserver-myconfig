@@ -4,3 +4,4 @@ server:
 my:
   props:
      prop1: foo
+     prop2: bar
