@@ -1,1 +1,7 @@
-
+debug: true
+server:
+  port: 8083
+my:
+  props:
+     prop1: test_foo
+     prop2: test_bar
